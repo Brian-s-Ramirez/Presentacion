@@ -1,5 +1,5 @@
 # Primera presentacion en Git
- mi nombre es Brian y soy estudiante de la UNPZ en la carrera de **Licenciatura en gestion de las tecnologias de la informacion**
+ Mi nombre es Brian y soy estudiante de la UNPZ en la carrera de **Licenciatura en gestion de las tecnologias de la informacion**
 
 ## Foto -_-
 ![yo](./Imagen/YO.jpg "Este soy yo") 
@@ -15,5 +15,7 @@
 -   Soy fanatico de los fps con motor grafico al estilo Doom clasico
 
 ***Informacion de contacto***
+
 Email: <brian_lpr@hotmail.com>
-Steam: (https://steamcommunity.com/id/Perihellium/)
+
+Steam: https://steamcommunity.com/id/Perihellium/
