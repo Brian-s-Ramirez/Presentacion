@@ -2,7 +2,7 @@
  Mi nombre es Brian y soy estudiante de la UNPZ en la carrera de **Licenciatura en gestion de las tecnologias de la informacion**
 
 ## Foto -_-
-![yo](./Imagen/YO.jpg "Este soy yo") 
+![yo](./Imagen/yo.jpg "Este soy yo") 
 
 ## Informacion basica 
 -   Desempleado 
