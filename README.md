@@ -18,7 +18,7 @@
 
 Email: <brian_lpr@hotmail.com>
 
-Steam: https://steamcommunity.com/id/Perihellium/
+
 
 ------- Añadido el dia 20 -------
 
